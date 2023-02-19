@@ -1,2 +1,35 @@
+```python
 
-![Immagine2](https://user-images.githubusercontent.com/113616815/219956174-30d7f821-5610-4077-9d2d-038a919ceaee.png)
+# something about me:
+random_info = {
+    "name" : "Gilda",
+    "pronouns" : "she/her",
+    "freetime" : "walking around, binge-watching"
+}
+
+education_info = [
+    "Computer Engineering Student",
+    "Apple Developer Academy Learner"
+]
+
+# what i've used so far:
+languages = [
+    "C", "C++", "Java", "SQL"
+]
+
+tools = [
+    "Android Studio IDE", "Eclipse IDE", "Matlab", "Git", 
+    "Unity3D", "Blender"
+]
+
+# currently learning:
+languages.append("Swift")
+languages.append("Python")
+tools.append("SwiftUI framework")
+tools.append("SpriteKit framework")
+tools.append("Xcode IDE")
+tools.append("VS Code IDE")
+
+# work in progress...
+
+```
