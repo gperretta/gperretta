@@ -33,3 +33,5 @@ tools.append("VS Code IDE")
 # work in progress...
 
 ```
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gperretta&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
