@@ -14,7 +14,7 @@ education_info = [
 
 # what i've used so far:
 languages = [
-    "C", "C++", "Java", "SQL"
+    "C", "C++", "C#", "Java", "SQL"
 ]
 
 tools = [
