@@ -18,8 +18,8 @@ languages = [
 ]
 
 tools = [
-    "Android Studio IDE", "Eclipse IDE", "Matlab", "Git", 
-    "Unity3D", "Blender"
+    "Android Studio IDE", "Eclipse IDE", "Git", 
+    "Unity", "Blender", "Matlab"
 ]
 
 # currently learning:
