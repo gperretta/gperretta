@@ -9,7 +9,7 @@ random_info = {
 }
 
 education_info = [
-    "Computer Engineering Student",
+    "Computer Engineering Graduate",
     "Apple Developer Academy Learner"
 ]
 
