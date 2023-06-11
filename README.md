@@ -1,7 +1,8 @@
 <h2>About me</h2>
 Hi! I'm Gilda, an endless learner who's passionate about tech and innovation.
 <br>On September 2022, I was drawn by my insatiable curiosity to attend the Apple Developer Academy Learner Program (2022/23), where I've found an innovative environment based on creative thinking and teamwork. 🍎 <br>In the meanwhile, I've also completed my studies, becoming a Computer Engineering graduate on May 2023. 🎓
-<br><br>As I've mostly explored object-oriented programming, relational databases and a few other notions (AI, OS, networking & statistics) during my university years, while I've got to know something more about software lifecycle, practicing with back-end development as iOS developer and game developer (iOS/macOS), I am now eager to broaden my perspective about software engineering and development.
+<br><br>I've mostly explored object-oriented programming, relational databases and a few other notions (AI, OS, networking & statistics) during my university years and I've got to know something more about software lifecycle, practicing with back-end development as iOS developer and game developer (iOS/macOS)
+<br>I am now eager to broaden my perspective about software engineering & development, looking forward to new challenges.
 <br><br>
 
 <div align="center">  
