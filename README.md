@@ -37,7 +37,7 @@ Hi! I'm Gilda, an endless learner who's passionate about tech and innovation.
 
 <h4>Web Development</h4>
 
-[Personal portfolio website](gperretta.github.io/) <i>(work in progress)</i>
+[Personal portfolio website](https://github.com/gperretta/gperretta.github.io) <i>(work in progress)</i>
 
 
 <h4>iOS Development</h4>
