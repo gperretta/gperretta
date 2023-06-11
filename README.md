@@ -1,7 +1,9 @@
+<div align="center">  
+    
+  [![Gilda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gperretta&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+</div> 
+<div align="center">  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperretta&layout=compact&hide_border=true&title_color=2eabfa&text_color=2eabfa&bg_color=0d1117" />
+</div> 
 
-</br>          
-<p align="left">
-    <h3> Github stats </h3>
-    <img width="725em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gperretta&theme=github_dark" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gperretta&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
-</p>
