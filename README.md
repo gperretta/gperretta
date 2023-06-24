@@ -35,7 +35,7 @@
 
 [Ghosting Time: a Flappy Bird variant (Unity)](https://github.com/gperretta/ghosting-time)
 
-[Hop'n'Brew: Amphibian Alchemist](https://github.com/gperretta/hop-n-brew) <i>(work in progress)</i>
+[Hop'n'Brew: Amphibian Alchemist](https://github.com/gperretta/hop-n-brew) 
 
 <h4>Web Development</h4>
 
