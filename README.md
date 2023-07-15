@@ -6,11 +6,11 @@
 <br>During my university studies, I've mostly explored object-oriented programming, relational databases and a few other notions (AI, OS, networking & statistics), while at the Academy, I've got to know something more about software lifecycle, practicing with Back-End development as iOS developer and game developer (iOS/macOS) working both on my own and in diverse teams.
 <br>I am now eager to broaden my perspective about software engineering & development, looking forward to new challenges.
 <br><br>
-
+<!--
 <div align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gperretta&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" /> 
 </div> 
-
+-->
 <h2>Projects summary</h2>
 
 <h4>Python Development</h4>
