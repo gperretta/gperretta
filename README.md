@@ -1,16 +1,35 @@
 <h2>About me</h2>
 
-- Computer Engineering graduate 🎓
-- Apple Developer Academy - Learner Program (2022/23) 🍎 
-
+- Computer Engineering Graduate 🎓
+- App Development & Game Creation @ Apple Developer Academy 🍎
+- Full Stack Developer Internship 🖥️
+<br><br>
+<h3>Skills & Tools</h3>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="52px" height="52px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="52px" height="52px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="52px" height="52px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="52px" height="52px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="52px" height="52px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="74px" height="74px"/>
+</p>
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="52px" height="52px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="52px" height="52px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width="52px" height="52px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="52px" height="52px"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="52px" height="52px"/>
+</p>
+<!--
 <br>During my university studies, I've mostly explored object-oriented programming, relational databases and a few other notions (AI, OS, networking & statistics), while at the Academy, I've got to know something more about software lifecycle, practicing with Back-End development as iOS developer and game developer (iOS/macOS) working both on my own and in diverse teams.
 <br>I am now eager to broaden my perspective about software engineering & development, looking forward to new challenges.
-<br><br>
+-->
 <!--
 <div align="center">  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gperretta&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true" /> 
 </div> 
 -->
+<br><br>
 <h2>Projects summary</h2>
 
 <h4>Python Development</h4>
