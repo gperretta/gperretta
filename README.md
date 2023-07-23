@@ -60,6 +60,8 @@
 
 [Personal portfolio website](https://github.com/gperretta/gperretta.github.io) <i>(work in progress)</i>
 
+[Learning java with a project: slot machine app](https://github.com/gperretta/slot-machine-javascript)
+
 
 <h4>iOS Development</h4>
 
