@@ -2,7 +2,7 @@
 
 - Computer Engineering Graduate 🎓
 - App Development & Game Creation @ Apple Developer Academy 🍎
-- Full Stack Developer Internship 🖥️
+- Full-Stack Developer Internship 🖥️
 <br><br>
 <h3>Skills & Tools</h3>
 <p align="left">
@@ -60,7 +60,7 @@
 
 [Personal portfolio website](https://github.com/gperretta/gperretta.github.io) <i>(work in progress)</i>
 
-[Learning java with a project: slot machine app](https://github.com/gperretta/slot-machine-javascript)
+[Learning javascript with a project: slot machine app](https://github.com/gperretta/slot-machine-javascript)
 
 
 <h4>iOS Development</h4>
