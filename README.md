@@ -62,6 +62,8 @@
 
 [Learning javascript with a project: slot machine app](https://github.com/gperretta/slot-machine-javascript)
 
+[Filter Fun - Programming Foundations with JavaScript, HTML and CSS course miniproject](https://github.com/gperretta/filter-fun)
+
 
 <h4>iOS Development</h4>
 
