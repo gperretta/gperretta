@@ -64,6 +64,8 @@
 
 [Filter Fun - Coursera course miniproject](https://github.com/gperretta/filter-fun)
 
+[Arcade Games](https://github.com/gperretta/arcade-mini-projects)
+
 
 <h4>iOS Development</h4>
 
