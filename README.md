@@ -2,7 +2,7 @@
 
 - Computer Engineering Graduate 🎓
 - App Development & Game Creation @ Apple Developer Academy 🍎
-- Full-Stack Developer Internship 🖥️
+- Java Web Application Developer / IT Specialist 🖥️
 <br><br>
 <h3>Skills & Tools</h3>
 <p align="left">
